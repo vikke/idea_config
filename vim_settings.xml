@@ -1,0 +1,70 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MainActivity.java" timestamp="1483025767565">
+        <mark key="'" line="10" column="34" />
+        <mark key="[" line="17" column="7" />
+        <mark key="]" line="18" column="14" />
+        <mark key="." line="18" column="14" />
+        <mark key="^" line="18" column="14" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1482850338916">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" timestamp="1482850537669">
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="15" column="34" />
+        <mark key="." line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="10" column="34" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MainActivity.java" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>}</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>}</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
