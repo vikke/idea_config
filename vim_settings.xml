@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MainActivity.java" timestamp="1483026463237">
-        <mark key="'" line="10" column="34" />
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MainActivity.java" timestamp="1483026622939">
+        <mark key="'" line="18" column="10" />
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
@@ -21,6 +21,7 @@
     </filemarks>
     <jumps>
       <jump line="10" column="34" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MainActivity.java" />
+      <jump line="18" column="10" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MainActivity.java" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -90,6 +91,9 @@ class Bar implements Hoge {
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
