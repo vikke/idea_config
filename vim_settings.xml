@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MainActivity.java" timestamp="1483025767565">
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MainActivity.java" timestamp="1483026463237">
         <mark key="'" line="10" column="34" />
-        <mark key="[" line="17" column="7" />
-        <mark key="]" line="18" column="14" />
-        <mark key="." line="18" column="14" />
-        <mark key="^" line="18" column="14" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1482850338916">
         <mark key="[" line="0" column="0" />
@@ -25,12 +24,42 @@
     </jumps>
     <registers>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text>interface Hoge {
+    public void imp();
+    public void gar();
+}
+
+class Bar implements Hoge {
+    @Override
+    public void imp() {
+        
+    }
+
+    @Override
+    public void gar() {
+
+    }
+}</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgaW1wKCkgewogICAgICAgIAogICAgfQ==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgaW1wKCkgewogICAgICAgIAogICAgfQ==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>}</text>
-      </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
