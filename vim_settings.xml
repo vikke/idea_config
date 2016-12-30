@@ -24,11 +24,17 @@
       <jump line="18" column="10" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIDxUZXh0Q2xvY2sKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2JlbG93PSJAK2lkL3RleHRWaWV3IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2FsaWduRW5kPSJAK2lkL3RleHRWaWV3IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMjBkcCIKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3RleHRDbG9jayIgLz4=</text>
-      </register>
       <register name="&quot;" type="4">
         <text>#</text>
+      </register>
+      <register name="-" type="4">
+        <text>#</text>
+      </register>
+      <register name="/" type="4">
+        <text>debug</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIDxUZXh0Q2xvY2sKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2JlbG93PSJAK2lkL3RleHRWaWV3IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2FsaWduRW5kPSJAK2lkL3RleHRWaWV3IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMjBkcCIKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3RleHRDbG9jayIgLz4=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -72,16 +78,18 @@ class Bar implements Hoge {
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text>#</text>
-      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>debug</last-search>
+      <last-offset />
+      <last-pattern>debug</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>debug</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
