@@ -3,19 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MainActivity.java" timestamp="1483026622939">
-        <mark key="'" line="18" column="10" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MainActivity.java" timestamp="1483080517607">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1482850338916">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" timestamp="1482850537669">
-        <mark key="[" line="15" column="33" />
-        <mark key="]" line="15" column="34" />
-        <mark key="." line="15" column="34" />
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" timestamp="1483078492872">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
         <mark key="^" line="15" column="34" />
       </file>
     </filemarks>
@@ -24,13 +24,22 @@
       <jump line="18" column="10" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIDxUZXh0Q2xvY2sKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2JlbG93PSJAK2lkL3RleHRWaWV3IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2FsaWduRW5kPSJAK2lkL3RleHRWaWV3IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMjBkcCIKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3RleHRDbG9jayIgLz4=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>#</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
+      <register name="3" type="4">
+        <text encoding="base64">ICAgcHJpdmF0ZSB2b2lkIGhvZ2UoKSB7CgogICAgfQoKICAgIHByaXZhdGUgdm9pZCBmb2dhKCkgewogICAgICAgIGhvZ2UoKTsKCiAgICB9</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>interface Hoge {
     public void imp();
     public void gar();
@@ -48,26 +57,23 @@ class Bar implements Hoge {
     }
 }</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgaW1wKCkgewogICAgICAgIAogICAgfQ==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgaW1wKCkgewogICAgICAgIAogICAgfQ==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>#</text>
       </register>
     </registers>
     <search>
