@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MainActivity.java" timestamp="1483106218445">
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="44" />
-        <mark key="." line="12" column="44" />
-        <mark key="^" line="12" column="44" />
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MainActivity.java" timestamp="1483108638779">
+        <mark key="[" line="12" column="43" />
+        <mark key="]" line="13" column="7" />
+        <mark key="." line="13" column="7" />
+        <mark key="^" line="13" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482850338916">
+      <file name="/Dummy.txt" timestamp="1483107206578">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" timestamp="1483099466422">
@@ -26,13 +26,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>btun</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>btun</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>debug</text>
+        <text>aaa</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2JlbG93PSJAK2lkL2J1dHRvbiIKICAgICAgICBhbmRyb2lkOmxheW91dF90b0VuZE9mPSJAK2lkL3RleHRWaWV3IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblN0YXJ0PSI1MmRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMTM4ZHAiIC8+</text>
@@ -69,17 +69,30 @@
       </register>
     </registers>
     <search>
-      <last-search>debug</last-search>
+      <last-search>aaa</last-search>
       <last-offset />
-      <last-pattern>debug</last-pattern>
+      <last-pattern>aaa</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>debug</entry>
+        <entry>aaa</entry>
       </history-search>
       <history-cmd>
+        <entry>actionlist</entry>
+        <entry>classlist Class</entry>
+        <entry>actionliast Class</entry>
+        <entry>actionlist nati</entry>
+        <entry>actionlist nav</entry>
+        <entry>actionlist class</entry>
+        <entry>action Find</entry>
+        <entry>action Class</entry>
+        <entry>action gotofile</entry>
+        <entry>action GotoFile</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action GotoClass</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
