@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MainActivity.java" timestamp="1483099605098">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="12" column="8" />
-        <mark key="^" line="12" column="10" />
-        <mark key="." line="12" column="8" />
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MainActivity.java" timestamp="1483106218445">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="12" column="44" />
+        <mark key="." line="12" column="44" />
+        <mark key="^" line="12" column="44" />
       </file>
       <file name="/Dummy.txt" timestamp="1482850338916">
         <mark key="[" line="0" column="0" />
@@ -26,10 +26,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>btun</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>btun</text>
       </register>
       <register name="/" type="4">
         <text>debug</text>
@@ -38,46 +38,31 @@
         <text encoding="base64">IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2JlbG93PSJAK2lkL2J1dHRvbiIKICAgICAgICBhbmRyb2lkOmxheW91dF90b0VuZE9mPSJAK2lkL3RleHRWaWV3IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblN0YXJ0PSI1MmRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMTM4ZHAiIC8+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIDxBbmFsb2dDbG9jawogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvQW5hbG9nQ2xvY2siCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIvPgo=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">cHVibGljIGNsYXNzIEhvZ2UgewogICAgCiAgICAKICAgIAp9Cgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0cmluZwo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIDxUZXh0Q2xvY2sKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2JlbG93PSJAK2lkL3RleHRWaWV3IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2FsaWduRW5kPSJAK2lkL3RleHRWaWV3IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMjBkcCIKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3RleHRDbG9jayIgLz4=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICBCdXR0b24gYnRuID0gbmV3IEJ1dHRvbih0aGlzKTsKICAgICAgICBidG4uc2V0VGV4dCgi44OG44K544OIIik7CiAgICAgICAgYnRuLnNldE9uQ2xpY2tMaXN0ZW5lcihuZXcgVmlldy5PbkNsaWNrTGlzdGVuZXIoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNsaWNrKFZpZXcgdikgewogICAgICAgICAgICAgICAgQnV0dG9uIGIgPSAoQnV0dG9uKXY7CiAgICAgICAgICAgICAgICBiLnNldFRleHQoInB1c2hlZC4iKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOw==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIDxBbmFsb2dDbG9jawogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvQW5hbG9nQ2xvY2siCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIvPgo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">cHVibGljIGNsYXNzIEhvZ2UgewogICAgCiAgICAKICAgIAp9Cgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIFN0cmluZwo=</text>
+      </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgcHJpdmF0ZSB2b2lkIGhvZ2UoKSB7CgogICAgfQoKICAgIHByaXZhdGUgdm9pZCBmb2dhKCkgewogICAgICAgIGhvZ2UoKTsKCiAgICB9</text>
+        <text encoding="base64">ICAgIDxUZXh0Q2xvY2sKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2JlbG93PSJAK2lkL3RleHRWaWV3IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2FsaWduRW5kPSJAK2lkL3RleHRWaWV3IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMjBkcCIKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3RleHRDbG9jayIgLz4=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>interface Hoge {
-    public void imp();
-    public void gar();
-}
-
-class Bar implements Hoge {
-    @Override
-    public void imp() {
-        
-    }
-
-    @Override
-    public void gar() {
-
-    }
-}</text>
+        <text encoding="base64">ICAgcHJpdmF0ZSB2b2lkIGhvZ2UoKSB7CgogICAgfQoKICAgIHByaXZhdGUgdm9pZCBmb2dhKCkgewogICAgICAgIGhvZ2UoKTsKCiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -118,6 +103,9 @@ class Bar implements Hoge {
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
