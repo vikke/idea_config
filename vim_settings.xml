@@ -3,13 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MainActivity.java" timestamp="1483108638779">
-        <mark key="[" line="12" column="43" />
-        <mark key="]" line="13" column="7" />
-        <mark key="." line="13" column="7" />
-        <mark key="^" line="13" column="7" />
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MainActivity.java" timestamp="1483111452649">
+        <mark key="[" line="54" column="33" />
+        <mark key="]" line="54" column="33" />
+        <mark key="^" line="54" column="33" />
+        <mark key="." line="54" column="33" />
       </file>
       <file name="/Dummy.txt" timestamp="1483107206578">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/build.gradle" timestamp="1483110914829">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+        <mark key="^" line="8" column="26" />
+      </file>
+      <file name="/a.dummy" timestamp="1483109912066">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" timestamp="1483099466422">
@@ -26,43 +35,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>aaa</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2JlbG93PSJAK2lkL2J1dHRvbiIKICAgICAgICBhbmRyb2lkOmxheW91dF90b0VuZE9mPSJAK2lkL3RleHRWaWV3IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblN0YXJ0PSI1MmRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMTM4ZHAiIC8+</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuZCgiZGVidWciLCAib25TdGFydCIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICBCdXR0b24gYnRuID0gbmV3IEJ1dHRvbih0aGlzKTsKICAgICAgICBidG4uc2V0VGV4dCgi44OG44K544OIIik7CiAgICAgICAgYnRuLnNldE9uQ2xpY2tMaXN0ZW5lcihuZXcgVmlldy5PbkNsaWNrTGlzdGVuZXIoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNsaWNrKFZpZXcgdikgewogICAgICAgICAgICAgICAgQnV0dG9uIGIgPSAoQnV0dG9uKXY7CiAgICAgICAgICAgICAgICBiLnNldFRleHQoInB1c2hlZC4iKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOw==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25TdG9wKCkgewogICAgICAgIHN1cGVyLm9uU3RvcCgpOwogICAgfQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25SZXN0b3JlSW5zdGFuY2VTdGF0ZShCdW5kbGUgc2F2ZWRJbnN0YW5jZVN0YXRlKSB7CiAgICAgICAgc3VwZXIub25SZXN0b3JlSW5zdGFuY2VTdGF0ZShzYXZlZEluc3RhbmNlU3RhdGUpOwogICAgfQo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgIDxBbmFsb2dDbG9jawogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvQW5hbG9nQ2xvY2siCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIvPgo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25Qb3N0UmVzdW1lKCkgewogICAgICAgIHN1cGVyLm9uUG9zdFJlc3VtZSgpOwogICAgfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">cHVibGljIGNsYXNzIEhvZ2UgewogICAgCiAgICAKICAgIAp9Cgo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN0cmluZwo=</text>
+        <text encoding="base64">ICAgICAgICBNZWRpYUFjdGlvblNvdW5kCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIDxUZXh0Q2xvY2sKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2JlbG93PSJAK2lkL3RleHRWaWV3IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2FsaWduRW5kPSJAK2lkL3RleHRWaWV3IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMjBkcCIKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3RleHRDbG9jayIgLz4=</text>
-      </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgcHJpdmF0ZSB2b2lkIGhvZ2UoKSB7CgogICAgfQoKICAgIHByaXZhdGUgdm9pZCBmb2dhKCkgewogICAgICAgIGhvZ2UoKTsKCiAgICB9</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICBCdXR0b24gYnRuID0gbmV3IEJ1dHRvbih0aGlzKTsKICAgICAgICBidG4uc2V0VGV4dCgi44OG44K544OIIik7CiAgICAgICAgYnRuLnNldE9uQ2xpY2tMaXN0ZW5lcihuZXcgVmlldy5PbkNsaWNrTGlzdGVuZXIoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNsaWNrKFZpZXcgdikgewogICAgICAgICAgICAgICAgQnV0dG9uIGIgPSAoQnV0dG9uKXY7CiAgICAgICAgICAgICAgICBiLnNldFRleHQoInB1c2hlZC4iKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOw==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -119,6 +128,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>

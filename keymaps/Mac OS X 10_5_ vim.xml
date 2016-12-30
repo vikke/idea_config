@@ -18,9 +18,11 @@
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
   </action>
   <action id="ImplementMethods">
-    <keyboard-shortcut first-keystroke="shift meta i" />
+    <keyboard-shortcut first-keystroke="ctrl meta i" />
   </action>
-  <action id="OverrideMethods" />
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="ctrl meta o" />
+  </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
