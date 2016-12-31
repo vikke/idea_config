@@ -50,11 +50,12 @@
         <mark key="." line="23" column="46" />
         <mark key="^" line="23" column="46" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Syllabus/app/src/main/java/name/vikke/syllabus/MainActivity.java" timestamp="1483176977212">
-        <mark key="[" line="77" column="47" />
-        <mark key="]" line="78" column="7" />
-        <mark key="." line="78" column="7" />
-        <mark key="^" line="78" column="7" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Syllabus/app/src/main/java/name/vikke/syllabus/MainActivity.java" timestamp="1483180854119">
+        <mark key="'" line="80" column="27" />
+        <mark key="[" line="82" column="37" />
+        <mark key="]" line="83" column="23" />
+        <mark key="." line="83" column="23" />
+        <mark key="^" line="83" column="23" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MyView.java" timestamp="1483158389198">
         <mark key="[" line="36" column="0" />
@@ -81,6 +82,8 @@
       <jump line="97" column="36" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MainActivity.java" />
       <jump line="6" column="29" filename="$USER_HOME$/AndroidStudioProjects/Syllabus/app/src/main/res/layout/lecture_row.xml" />
       <jump line="23" column="38" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" />
+      <jump line="80" column="27" filename="$USER_HOME$/AndroidStudioProjects/Syllabus/app/src/main/java/name/vikke/syllabus/MainActivity.java" />
+      <jump line="30" column="50" filename="$USER_HOME$/AndroidStudioProjects/Syllabus/app/src/main/java/name/vikke/syllabus/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -123,7 +126,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action DashLauncherAction</text>
       </register>
     </registers>
     <search>
@@ -139,7 +142,6 @@
         <entry>aaa</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist</entry>
         <entry>classlist Class</entry>
         <entry>actionliast Class</entry>
         <entry>actionlist nati</entry>
@@ -155,9 +157,11 @@
         <entry>actionlist Dash</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action GotoFile</entry>
-        <entry>action DashLauncherAction</entry>
         <entry>action GotoClass</entry>
         <entry>w</entry>
+        <entry>actionlist back</entry>
+        <entry>sp</entry>
+        <entry>action DashLauncherAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
