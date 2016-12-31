@@ -3,14 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MainActivity.java" timestamp="1483159774400">
-        <mark key="[" line="106" column="16" />
-        <mark key="]" line="106" column="29" />
-        <mark key="." line="106" column="29" />
-        <mark key="^" line="106" column="29" />
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MainActivity.java" timestamp="1483166806954">
+        <mark key="'" line="97" column="36" />
+        <mark key="[" line="138" column="38" />
+        <mark key="]" line="138" column="39" />
+        <mark key="." line="138" column="39" />
+        <mark key="^" line="137" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483107206578">
+      <file name="/Dummy.txt" timestamp="1483167992020">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/build.gradle" timestamp="1483110914829">
         <mark key="[" line="8" column="24" />
@@ -18,71 +21,107 @@
         <mark key="." line="8" column="26" />
         <mark key="^" line="8" column="26" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MyActivity.java" timestamp="1483167018270">
+        <mark key="[" line="22" column="22" />
+        <mark key="]" line="23" column="21" />
+        <mark key="^" line="23" column="21" />
+        <mark key="." line="23" column="21" />
+      </file>
       <file name="/a.dummy" timestamp="1483152641403">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-25/android/os/Looper.java" timestamp="1483164305610" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Syllabus/app/src/main/res/layout/activity_main.xml" timestamp="1483167899626">
+        <mark key="[" line="16" column="31" />
+        <mark key="]" line="16" column="42" />
+        <mark key="." line="16" column="42" />
+        <mark key="^" line="16" column="42" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Syllabus/app/src/main/res/layout/lecture_row.xml" timestamp="1483168438170">
+        <mark key="'" line="6" column="29" />
+        <mark key="[" line="16" column="31" />
+        <mark key="]" line="16" column="42" />
+        <mark key="^" line="16" column="42" />
+        <mark key="." line="16" column="42" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml" timestamp="1483166130098">
+        <mark key="[" line="23" column="44" />
+        <mark key="]" line="23" column="46" />
+        <mark key="." line="23" column="46" />
+        <mark key="^" line="23" column="46" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Syllabus/app/src/main/java/name/vikke/syllabus/MainActivity.java" timestamp="1483170380933">
+        <mark key="[" line="39" column="73" />
+        <mark key="]" line="40" column="11" />
+        <mark key="." line="40" column="11" />
+        <mark key="^" line="40" column="11" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MyView.java" timestamp="1483158389198">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1483157847005">
+      <file name="/fragment.java" timestamp="1483165084227">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" timestamp="1483158531977">
-        <mark key="[" line="44" column="25" />
-        <mark key="]" line="44" column="33" />
-        <mark key="." line="44" column="33" />
-        <mark key="^" line="44" column="33" />
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" timestamp="1483166748026">
+        <mark key="a" line="23" column="38" />
+        <mark key="[" line="19" column="22" />
+        <mark key="]" line="19" column="38" />
+        <mark key="." line="19" column="38" />
+        <mark key="^" line="19" column="38" />
       </file>
     </filemarks>
     <jumps>
       <jump line="10" column="34" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MainActivity.java" />
       <jump line="18" column="10" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MainActivity.java" />
       <jump line="15" column="0" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MainActivity.java" />
+      <jump line="90" column="65" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MainActivity.java" />
+      <jump line="97" column="36" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MainActivity.java" />
+      <jump line="6" column="29" filename="$USER_HOME$/AndroidStudioProjects/Syllabus/app/src/main/res/layout/lecture_row.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>startActivitiy</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>startActivitiy</text>
+        <text>date</text>
       </register>
       <register name="/" type="4">
         <text>aaa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBCdXR0b24gYnRuID0gKEJ1dHRvbilmaW5kVmlld0J5SWQoUi5pZC5idXR0b24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0ZVZpZXcuc2V0VGV4dChpdGVtLmRhdGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN1cGVyLmdldFZpZXcocG9zaXRpb24sIGNvbnZlcnRWaWV3LCBwYXJlbnQpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICBidG5JbnRlbnQuc2V0T25DcmVhdGVDb250ZXh0TWVudUxpc3RlbmVyKG5ldyBWaWV3Lk9uQ3JlYXRlQ29udGV4dE1lbnVMaXN0ZW5lcigpewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgb25DcmVhdGVDb250ZXh0TWVudShDb250ZXh0TWVudSBtZW51LCBWaWV3IHYsIENvbnRleHRNZW51LkNvbnRleHRNZW51SW5mbyBtZW51SW5mbykgewoKICAgICAgICAgICAgfQogICAgICAgIH0pOwo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZGV0YWlsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvKgo=</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAobVggKSB7CiAgICAgICAgfQo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBQCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action DashLauncherAction</text>
       </register>
     </registers>
     <search>
@@ -107,16 +146,16 @@
         <entry>action Find</entry>
         <entry>action Class</entry>
         <entry>action gotofile</entry>
-        <entry>action GotoFile</entry>
         <entry>action Dash</entry>
         <entry>actionlist dash</entry>
         <entry>action DashLauncerAction</entry>
         <entry>action DashActionLauncher</entry>
         <entry>actionlist Dash</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action DashLauncherAction</entry>
+        <entry>action GotoFile</entry>
         <entry>action GotoClass</entry>
         <entry>w</entry>
+        <entry>action DashLauncherAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
