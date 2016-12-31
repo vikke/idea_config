@@ -46,5 +46,6 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="TypeHierarchy" />
   <action id="Vcs.UpdateProject" />
 </keymap>
