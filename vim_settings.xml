@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MainActivity.java" timestamp="1483152768717">
-        <mark key="[" line="49" column="8" />
-        <mark key="]" line="49" column="10" />
-        <mark key="^" line="49" column="10" />
-        <mark key="." line="49" column="10" />
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MainActivity.java" timestamp="1483159774400">
+        <mark key="[" line="106" column="16" />
+        <mark key="]" line="106" column="29" />
+        <mark key="." line="106" column="29" />
+        <mark key="^" line="106" column="29" />
       </file>
       <file name="/Dummy.txt" timestamp="1483107206578">
         <mark key="[" line="0" column="0" />
@@ -21,20 +21,19 @@
       <file name="/a.dummy" timestamp="1483152641403">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MyView.java" timestamp="1483156460746">
-        <mark key="[" line="28" column="50" />
-        <mark key="]" line="28" column="50" />
-        <mark key="^" line="28" column="50" />
-        <mark key="." line="28" column="50" />
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MyView.java" timestamp="1483158389198">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1483152055554">
+      <file name="/fragment.java" timestamp="1483157847005">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" timestamp="1483099466422">
-        <mark key="[" line="31" column="34" />
-        <mark key="]" line="35" column="42" />
-        <mark key="^" line="37" column="3" />
-        <mark key="." line="37" column="4" />
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" timestamp="1483158531977">
+        <mark key="[" line="44" column="25" />
+        <mark key="]" line="44" column="33" />
+        <mark key="." line="44" column="33" />
+        <mark key="^" line="44" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -44,19 +43,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text>startActivitiy</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>startActivitiy</text>
       </register>
       <register name="/" type="4">
         <text>aaa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtWSArPSBtVnk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBCdXR0b24gYnRuID0gKEJ1dHRvbilmaW5kVmlld0J5SWQoUi5pZC5idXR0b24pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -65,22 +64,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtZWRpYVBsYXllci5wYXVzZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBidG5JbnRlbnQuc2V0T25DcmVhdGVDb250ZXh0TWVudUxpc3RlbmVyKG5ldyBWaWV3Lk9uQ3JlYXRlQ29udGV4dE1lbnVMaXN0ZW5lcigpewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgb25DcmVhdGVDb250ZXh0TWVudShDb250ZXh0TWVudSBtZW51LCBWaWV3IHYsIENvbnRleHRNZW51LkNvbnRleHRNZW51SW5mbyBtZW51SW5mbykgewoKICAgICAgICAgICAgfQogICAgICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBNeVZpZXcoQ29udGV4dCBjb250ZXh0KSB7CiAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihjb250ZXh0KTsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICBpZiAobVggKSB7CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -109,7 +108,6 @@
         <entry>action Class</entry>
         <entry>action gotofile</entry>
         <entry>action GotoFile</entry>
-        <entry>action GotoClass</entry>
         <entry>action Dash</entry>
         <entry>actionlist dash</entry>
         <entry>action DashLauncerAction</entry>
@@ -117,6 +115,7 @@
         <entry>actionlist Dash</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action DashLauncherAction</entry>
+        <entry>action GotoClass</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -146,6 +145,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
