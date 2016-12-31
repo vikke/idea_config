@@ -10,7 +10,7 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="85" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483167992020">
+      <file name="/Dummy.txt" timestamp="1483186849329">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -27,6 +27,12 @@
         <mark key="^" line="23" column="21" />
         <mark key="." line="23" column="21" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Syllabus/app/src/main/res/values/strings.xml" timestamp="1483184884487">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+        <mark key="^" line="2" column="41" />
+      </file>
       <file name="/a.dummy" timestamp="1483152641403">
         <mark key="[" line="0" column="0" />
       </file>
@@ -36,6 +42,12 @@
         <mark key="]" line="16" column="10" />
         <mark key="^" line="16" column="9" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Syllabus/app/src/main/java/name/vikke/syllabus/CourseDetail.java" timestamp="1483185974968">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="20" column="7" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Syllabus/app/src/main/res/layout/lecture_row.xml" timestamp="1483168438170">
         <mark key="'" line="6" column="29" />
@@ -50,19 +62,25 @@
         <mark key="." line="23" column="46" />
         <mark key="^" line="23" column="46" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Syllabus/app/src/main/java/name/vikke/syllabus/MainActivity.java" timestamp="1483180854119">
-        <mark key="'" line="80" column="27" />
-        <mark key="[" line="82" column="37" />
-        <mark key="]" line="83" column="23" />
-        <mark key="." line="83" column="23" />
-        <mark key="^" line="83" column="23" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Syllabus/app/src/main/res/layout/activity_course_detail.xml" timestamp="1483186897998">
+        <mark key="[" line="54" column="22" />
+        <mark key="]" line="54" column="31" />
+        <mark key="." line="54" column="31" />
+        <mark key="^" line="54" column="31" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Syllabus/app/src/main/java/name/vikke/syllabus/MainActivity.java" timestamp="1483185919651">
+        <mark key="'" line="89" column="14" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="^" line="98" column="22" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MyView.java" timestamp="1483158389198">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1483176875084">
+      <file name="/fragment.java" timestamp="1483182166601">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" timestamp="1483176792431">
@@ -84,40 +102,47 @@
       <jump line="23" column="38" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" />
       <jump line="80" column="27" filename="$USER_HOME$/AndroidStudioProjects/Syllabus/app/src/main/java/name/vikke/syllabus/MainActivity.java" />
       <jump line="30" column="50" filename="$USER_HOME$/AndroidStudioProjects/Syllabus/app/src/main/java/name/vikke/syllabus/MainActivity.java" />
+      <jump line="83" column="9" filename="$USER_HOME$/AndroidStudioProjects/Syllabus/app/src/main/java/name/vikke/syllabus/MainActivity.java" />
+      <jump line="55" column="17" filename="$USER_HOME$/AndroidStudioProjects/Syllabus/app/src/main/java/name/vikke/syllabus/MainActivity.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/AndroidStudioProjects/Syllabus/app/src/main/java/name/vikke/syllabus/MainActivity.java" />
+      <jump line="90" column="18" filename="$USER_HOME$/AndroidStudioProjects/Syllabus/app/src/main/java/name/vikke/syllabus/MainActivity.java" />
+      <jump line="446" column="16" filename="$USER_HOME$/Library/Android/sdk/sources/android-25/android/widget/ListView.java" />
+      <jump line="89" column="14" filename="$USER_HOME$/AndroidStudioProjects/Syllabus/app/src/main/java/name/vikke/syllabus/MainActivity.java" />
+      <jump line="82" column="13" filename="$USER_HOME$/Library/Android/sdk/sources/android-25/android/widget/ListView.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
+      <register name="&quot;" type="4">
+        <text>@string/hello_world</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>@string/hello_world</text>
       </register>
       <register name="/" type="4">
         <text>aaa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdGl0bGUgPSBpbnRlbnQuZ2V0U3RyaW5nRXh0cmEoInRpdGxlIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNeVZpZXcgbXlWaWV3ID0gbmV3IE15Vmlldyh0aGlzKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdGl0bGVUZXh0IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25MZWZ0PSJAaWQvZGF0ZVRleHQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfYmVsb3c9IkBpZC9kYXRlVGV4dCIKICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvaGVsbG9fd29ybGQiCiAgICAgICAgYW5kcm9pZDp0ZXh0QXBwZWFyYW5jZT0iP2FuZHJvaWQ6YXR0ci90ZXh0QXBwZWFyYW5jZUxhcmdlIgogICAgICAgIC8+</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50XCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdGl0bGUgPSBpbnRlbnQuZ2V0U3RyaW5nRXh0cmEoInRpdGxlIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUZXh0VmlldyB0ZXh0VmlldyA9IChUZXh0VmlldylmaW5kVmlld0J5SWQoUi5pZC50aXRsZVRleHQpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwvVmlldz4K</text>
+        <text encoding="base64">ICAgICAgICBpbnRlbnQucHV0RXh0cmEoInRpdGxlIiwgY291cnNlSXRlbS50aXRsZSk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -126,7 +151,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action DashLauncherAction</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -142,8 +167,6 @@
         <entry>aaa</entry>
       </history-search>
       <history-cmd>
-        <entry>classlist Class</entry>
-        <entry>actionliast Class</entry>
         <entry>actionlist nati</entry>
         <entry>actionlist nav</entry>
         <entry>actionlist class</entry>
@@ -157,11 +180,13 @@
         <entry>actionlist Dash</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action GotoFile</entry>
-        <entry>action GotoClass</entry>
-        <entry>w</entry>
         <entry>actionlist back</entry>
         <entry>sp</entry>
+        <entry>q</entry>
+        <entry>close</entry>
+        <entry>action GotoClass</entry>
         <entry>action DashLauncherAction</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -196,6 +221,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
