@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MainActivity.java" timestamp="1483111452649">
-        <mark key="[" line="54" column="33" />
-        <mark key="]" line="54" column="33" />
-        <mark key="^" line="54" column="33" />
-        <mark key="." line="54" column="33" />
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MainActivity.java" timestamp="1483152768717">
+        <mark key="[" line="49" column="8" />
+        <mark key="]" line="49" column="10" />
+        <mark key="^" line="49" column="10" />
+        <mark key="." line="49" column="10" />
       </file>
       <file name="/Dummy.txt" timestamp="1483107206578">
         <mark key="[" line="0" column="0" />
@@ -18,7 +18,16 @@
         <mark key="." line="8" column="26" />
         <mark key="^" line="8" column="26" />
       </file>
-      <file name="/a.dummy" timestamp="1483109912066">
+      <file name="/a.dummy" timestamp="1483152641403">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MyView.java" timestamp="1483156460746">
+        <mark key="[" line="28" column="50" />
+        <mark key="]" line="28" column="50" />
+        <mark key="^" line="28" column="50" />
+        <mark key="." line="28" column="50" />
+      </file>
+      <file name="/fragment.java" timestamp="1483152055554">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" timestamp="1483099466422">
@@ -35,43 +44,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>aaa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZCgiZGVidWciLCAib25TdGFydCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtWSArPSBtVnk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25TdG9wKCkgewogICAgICAgIHN1cGVyLm9uU3RvcCgpOwogICAgfQo=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25SZXN0b3JlSW5zdGFuY2VTdGF0ZShCdW5kbGUgc2F2ZWRJbnN0YW5jZVN0YXRlKSB7CiAgICAgICAgc3VwZXIub25SZXN0b3JlSW5zdGFuY2VTdGF0ZShzYXZlZEluc3RhbmNlU3RhdGUpOwogICAgfQo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25Qb3N0UmVzdW1lKCkgewogICAgICAgIHN1cGVyLm9uUG9zdFJlc3VtZSgpOwogICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBNZWRpYUFjdGlvblNvdW5kCg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBtZWRpYVBsYXllci5wYXVzZSgpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
+      </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBCdXR0b24gYnRuID0gbmV3IEJ1dHRvbih0aGlzKTsKICAgICAgICBidG4uc2V0VGV4dCgi44OG44K544OIIik7CiAgICAgICAgYnRuLnNldE9uQ2xpY2tMaXN0ZW5lcihuZXcgVmlldy5PbkNsaWNrTGlzdGVuZXIoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNsaWNrKFZpZXcgdikgewogICAgICAgICAgICAgICAgQnV0dG9uIGIgPSAoQnV0dG9uKXY7CiAgICAgICAgICAgICAgICBiLnNldFRleHQoInB1c2hlZC4iKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOw==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBNeVZpZXcoQ29udGV4dCBjb250ZXh0KSB7CiAgICB9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihjb250ZXh0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -100,8 +109,14 @@
         <entry>action Class</entry>
         <entry>action gotofile</entry>
         <entry>action GotoFile</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>action GotoClass</entry>
+        <entry>action Dash</entry>
+        <entry>actionlist dash</entry>
+        <entry>action DashLauncerAction</entry>
+        <entry>action DashActionLauncher</entry>
+        <entry>actionlist Dash</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action DashLauncherAction</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
