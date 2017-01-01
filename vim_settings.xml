@@ -68,12 +68,12 @@
         <mark key="." line="54" column="31" />
         <mark key="^" line="54" column="31" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Syllabus/app/src/main/java/name/vikke/syllabus/MainActivity.java" timestamp="1483268086418">
-        <mark key="'" line="130" column="14" />
-        <mark key="[" line="98" column="53" />
-        <mark key="]" line="98" column="73" />
-        <mark key="^" line="98" column="73" />
-        <mark key="." line="98" column="73" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Syllabus/app/src/main/java/name/vikke/syllabus/MainActivity.java" timestamp="1483269573977">
+        <mark key="'" line="136" column="14" />
+        <mark key="[" line="102" column="26" />
+        <mark key="]" line="102" column="26" />
+        <mark key="^" line="102" column="26" />
+        <mark key="." line="102" column="26" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/vikke/myapplication/MyView.java" timestamp="1483158389198">
         <mark key="[" line="36" column="0" />
@@ -112,10 +112,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>aaa</text>
